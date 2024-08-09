@@ -1,0 +1,35 @@
+input[Type=number] {}
+
+button .reset {
+    background-color: mediumvioletred;
+}
+
+button .bg-pink {
+    background-color: pink;
+}
+
+button {
+    align-items: center;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    height: 32px;
+    border: none;
+    border-radius: 4px;
+}
+
+aside {
+    padding: 48px;
+}
+
+.title {
+    text-align: center;
+}
+
+main {
+    display: flex;
+}
+
+form {
+    padding: 12px;
+    background-color: aliceblue;
+}
